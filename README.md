@@ -4,7 +4,7 @@ La –Code-A-Challenge
 
 Q1.CuteBall
 
-![](https://github.com/Parasmanithakur/Cute_ball/blob/main/Untitled.png
+![](https://github.com/Parasmanithakur/Cute_ball/blob/main/Untitled.jpg
 {A,B,C,D} =holes
 {1,2….8} –playing balls
 W –white ball
